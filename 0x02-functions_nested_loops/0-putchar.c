@@ -1,9 +1,6 @@
 #include <stdio.h>
-
 /**
- * main - Entry point
- *
- * Return: Always 0 (Success)
+ * fun - This is a description
  */
 void fun(void)
 {
