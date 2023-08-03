@@ -3,8 +3,8 @@
 
 /**
  * _print_rev_recursion - rev string
- * @s : pointer to char
- * Return : string
+ * @s: pointer to char
+ * Return: string
  */
 
 void _print_rev_recursion(char *s)
